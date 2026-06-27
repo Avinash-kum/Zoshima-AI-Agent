@@ -1,0 +1,6 @@
+# Node / OS ignores
+node_modules/
+.env
+.DS_Store
+_dist/
+build/
